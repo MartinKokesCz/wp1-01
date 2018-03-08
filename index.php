@@ -12,6 +12,7 @@
       $firstname = "Martin";
       // příjmení
       // základní škola
+      //test
       echo $age;
 
       // toto je test commit
