@@ -13,6 +13,8 @@
       // příjmení
       // základní škola
       echo $age;
+
+      // toto je test commit
     ?>
     <p>toto je můj první php skript</p>
 
